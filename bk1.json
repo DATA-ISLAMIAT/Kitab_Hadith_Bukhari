@@ -1,0 +1,776 @@
+[
+    {
+        "hadith_number": 6,
+        "id": 1,
+        "nameBengali": "১/ ওহীর সূচনা (كتاب بدء الوحى)",
+        "nameEnglish": "1/ Revelation",
+        "range_end": "৬",
+        "range_start": "১",
+        "serial": 1
+    },
+    {
+        "hadith_number": 50,
+        "id": 4,
+        "nameBengali": "২/ ঈমান (كتاب الإيمان)",
+        "nameEnglish": "2/ Belief ",
+        "range_end": "৫৬",
+        "range_start": "৭",
+        "serial": 2
+    },
+    {
+        "hadith_number": 80,
+        "id": 6,
+        "nameBengali": "৩/ ইলম বা জ্ঞান (كتاب العلم)",
+        "nameEnglish": "3/ Knowledge",
+        "range_end": "১৩৬",
+        "range_start": "৫৭",
+        "serial": 3
+    },
+    {
+        "hadith_number": 109,
+        "id": 7,
+        "nameBengali": "৪/ উযূ (كتاب الوضوء)",
+        "nameEnglish": "4/ Ablutions (Wudu)",
+        "range_end": "২৪৫",
+        "range_start": "১৩৭",
+        "serial": 4
+    },
+    {
+        "hadith_number": 44,
+        "id": 8,
+        "nameBengali": "৫/ গোসল (كتاب الغسل)",
+        "nameEnglish": "5/ Bathing (Ghusl)",
+        "range_end": "২৮৯",
+        "range_start": "২৪৬",
+        "serial": 5
+    },
+    {
+        "hadith_number": 37,
+        "id": 9,
+        "nameBengali": "৬/ হায়য (كتاب الحيض)",
+        "nameEnglish": "6/ Menstrual Periods",
+        "range_end": "৩২৬",
+        "range_start": "২৯০",
+        "serial": 6
+    },
+    {
+        "hadith_number": 15,
+        "id": 10,
+        "nameBengali": "৭/ তায়াম্মুম (كتاب التيمم)",
+        "nameEnglish": "7/ Rubbing hands and feet with dust (Tayammum)",
+        "range_end": "৩৪১",
+        "range_start": "৩২৭",
+        "serial": 7
+    },
+    {
+        "hadith_number": 155,
+        "id": 11,
+        "nameBengali": "৮/ সালাত (كتاب الصلاة)",
+        "nameEnglish": "8/ Prayers (Salat)",
+        "range_end": "৪৯৬",
+        "range_start": "৩৪২",
+        "serial": 8
+    },
+    {
+        "hadith_number": 79,
+        "id": 12,
+        "nameBengali": "৯/ সালাতের ওয়াক্তসমূহ (كتاب مواقيت الصلاة)",
+        "nameEnglish": "9/ Time of Prayers ",
+        "range_end": "৫৭৫",
+        "range_start": "৪৯৭",
+        "serial": 9
+    },
+    {
+        "hadith_number": 256,
+        "id": 13,
+        "nameBengali": "১০/ আযান (كتاب الأذان)",
+        "nameEnglish": "10/ Call of Prayers (Adhaan)",
+        "range_end": "৮৩১",
+        "range_start": "৫৭৬",
+        "serial": 10
+    },
+    {
+        "hadith_number": 63,
+        "id": 14,
+        "nameBengali": "১১/ জুমুআ (كتاب الجمعة)",
+        "nameEnglish": "11/ Friday prayer (Jumu&#039;a)",
+        "range_end": "৮৯৪",
+        "range_start": "৮৩২",
+        "serial": 11
+    },
+    {
+        "hadith_number": 6,
+        "id": 15,
+        "nameBengali": "১২/ শত্রুভীতি অবস্থায় সালাত (كتاب صلاة الخوف)",
+        "nameEnglish": "12/ Fear Prayer",
+        "range_end": "৯০০",
+        "range_start": "৮৯৫",
+        "serial": 12
+    },
+    {
+        "hadith_number": 36,
+        "id": 16,
+        "nameBengali": "১৩/ দুই ঈদ (كتاب العيدين)",
+        "nameEnglish": "13/ The Two Festivals (Eids)",
+        "range_end": "৯৩৬",
+        "range_start": "৯০১",
+        "serial": 13
+    },
+    {
+        "hadith_number": 14,
+        "id": 17,
+        "nameBengali": "১৪/ বিতর সালাত (كتاب الوتر)",
+        "nameEnglish": "14/ Witr Prayer",
+        "range_end": "৯৫০",
+        "range_start": "৯৩৭",
+        "serial": 14
+    },
+    {
+        "hadith_number": 32,
+        "id": 18,
+        "nameBengali": "১৫/ বৃষ্টির জন্য দুআ (كتاب الاستسقاء)",
+        "nameEnglish": "15/ Invoking Allah for Rain (Istisqaa)",
+        "range_end": "৯৮২",
+        "range_start": "৯৫১",
+        "serial": 15
+    },
+    {
+        "hadith_number": 23,
+        "id": 19,
+        "nameBengali": "১৬/ সূর্যগ্রহন (كتاب الكسوف)",
+        "nameEnglish": "16/ Eclipses",
+        "range_end": "১০০৫",
+        "range_start": "৯৮৩",
+        "serial": 16
+    },
+    {
+        "hadith_number": 13,
+        "id": 20,
+        "nameBengali": "১৭/ কুরআন তিলওয়াতে সিজদা (كتاب سجود القرآن)",
+        "nameEnglish": "17/ Prostration During Recital of Qur&#039;an",
+        "range_end": "১০১৮",
+        "range_start": "১০০৬",
+        "serial": 17
+    },
+    {
+        "hadith_number": 35,
+        "id": 21,
+        "nameBengali": "১৮/ সালাতে কসর করা (كتاب التقصير)",
+        "nameEnglish": "18/ Shortening The Prayer (At-Taqseer)",
+        "range_end": "১০৫৩",
+        "range_start": "১০১৯",
+        "serial": 18
+    },
+    {
+        "hadith_number": 111,
+        "id": 22,
+        "nameBengali": "১৯/ তাহাজ্জুদ বা রাতের সালাত (كتاب التهجد)",
+        "nameEnglish": "19/ Prayer At Night (Tahajjud)",
+        "range_end": "১১৬৪",
+        "range_start": "১০৫৪",
+        "serial": 19
+    },
+    {
+        "hadith_number": 148,
+        "id": 23,
+        "nameBengali": "২০/ জানাযা (كتاب الجنائز)",
+        "nameEnglish": "20/ Funerals (Al-Janaa&#039;Iz)",
+        "range_end": "১৩১২",
+        "range_start": "১১৬৫",
+        "serial": 20
+    },
+    {
+        "hadith_number": 112,
+        "id": 24,
+        "nameBengali": "২১/ যাকাত (كتاب الزكاة)",
+        "nameEnglish": "21/ Obligatory Charity Tax (Zakat)",
+        "range_end": "১৪২৪",
+        "range_start": "১৩১৩",
+        "serial": 21
+    },
+    {
+        "hadith_number": 345,
+        "id": 25,
+        "nameBengali": "২২/ হজ্ব (হাজ্জ) (كتاب الحج)",
+        "nameEnglish": "22/ Pilgrimmage",
+        "range_end": "১৭৬৯",
+        "range_start": "১৪২৫",
+        "serial": 22
+    },
+    {
+        "hadith_number": 112,
+        "id": 26,
+        "nameBengali": "২৩/ সাওম বা রোজা (كتاب الصوم)",
+        "nameEnglish": "23/ Fasting",
+        "range_end": "১৮৮১",
+        "range_start": "১৭৭০",
+        "serial": 23
+    },
+    {
+        "hadith_number": 16,
+        "id": 27,
+        "nameBengali": "২৪/ তারাবীহর সালাত (كتاب صلاة التراويح)",
+        "nameEnglish": "24/ Praying at Night in Ramadaan (Taraweeh) ",
+        "range_end": "১৮৯৭",
+        "range_start": "১৮৮২",
+        "serial": 24
+    },
+    {
+        "hadith_number": 21,
+        "id": 28,
+        "nameBengali": "২৫/ ইতিকাফ (كتاب الاعتكاف)",
+        "nameEnglish": "25/ Retiring to a Mosque for Remembrance of Allah (I&#039;tikaf) ",
+        "range_end": "১৯১৮",
+        "range_start": "১৮৯৮",
+        "serial": 25
+    },
+    {
+        "hadith_number": 178,
+        "id": 29,
+        "nameBengali": "২৬/ ক্রয় - বিক্রয় (كتاب البيوع)",
+        "nameEnglish": "26/ Sales and Trade",
+        "range_end": "২০৯৬",
+        "range_start": "১৯১৯",
+        "serial": 26
+    },
+    {
+        "hadith_number": 17,
+        "id": 30,
+        "nameBengali": "২৭/ সলম (كتاب السلم)",
+        "nameEnglish": "27/ Sales In which A Price Is Paid For Goods To Be Delivered Later (As-Salam)",
+        "range_end": "২১১৩",
+        "range_start": "২০৯৭",
+        "serial": 27
+    },
+    {
+        "hadith_number": 3,
+        "id": 31,
+        "nameBengali": "২৮/ শুফআ (كتاب الشفعة)",
+        "nameEnglish": "28/ Shufa",
+        "range_end": "২১১৬",
+        "range_start": "২১১৪",
+        "serial": 28
+    },
+    {
+        "hadith_number": 25,
+        "id": 32,
+        "nameBengali": "২৯/ ইজারা (كتاب الإجارة)",
+        "nameEnglish": "29/ Hiring",
+        "range_end": "২১৪১",
+        "range_start": "২১১৭",
+        "serial": 29
+    },
+    {
+        "hadith_number": 3,
+        "id": 33,
+        "nameBengali": "৩০/ হাওয়ালা (كتاب الحوالات)",
+        "nameEnglish": "30/ Transfer Of A Debt From One Person To Another (Al-Hawaala)",
+        "range_end": "২১৪৪",
+        "range_start": "২১৪২",
+        "serial": 30
+    },
+    {
+        "hadith_number": 7,
+        "id": 34,
+        "nameBengali": "৩১/ যামিন হওয়া (كتاب الكفالة)",
+        "nameEnglish": "31/ Kafalah",
+        "range_end": "২১৫১",
+        "range_start": "২১৪৫",
+        "serial": 31
+    },
+    {
+        "hadith_number": 17,
+        "id": 35,
+        "nameBengali": "৩২/ ওয়াকালাত (كتاب الوكالة)",
+        "nameEnglish": "32/ Representation, Authorization, Business By Proxy ",
+        "range_end": "২১৬৮",
+        "range_start": "২১৫২",
+        "serial": 32
+    },
+    {
+        "hadith_number": 28,
+        "id": 36,
+        "nameBengali": "৩৩/ বর্গাচাষ (كتاب المزارعة)",
+        "nameEnglish": "33/ Agriculture",
+        "range_end": "২১৯৬",
+        "range_start": "২১৬৯",
+        "serial": 33
+    },
+    {
+        "hadith_number": 30,
+        "id": 37,
+        "nameBengali": "৩৪/ পানি সিঞ্চন (كتاب المساقاة)",
+        "nameEnglish": "34/ Distribution Of Water",
+        "range_end": "২২২৬",
+        "range_start": "২১৯৭",
+        "serial": 34
+    },
+    {
+        "hadith_number": 23,
+        "id": 38,
+        "nameBengali": "৩৫/ ঋন গ্রহন (كتاب فى الاستقراض)",
+        "nameEnglish": "35/ Loans",
+        "range_end": "২২৪৯",
+        "range_start": "২২২৭",
+        "serial": 35
+    },
+    {
+        "hadith_number": 15,
+        "id": 39,
+        "nameBengali": "৩৬/ কলহ- বিবাদ (كتاب الخصومات)",
+        "nameEnglish": "36/ Khusoomat",
+        "range_end": "২২৬৪",
+        "range_start": "২২৫০",
+        "serial": 36
+    },
+    {
+        "hadith_number": 13,
+        "id": 40,
+        "nameBengali": "৩৭/ পড়ে থাকা বস্তু উঠান (كتاب فى اللقطة)",
+        "nameEnglish": "37/ Lost Things Picked Up By Someone (Luqaata)",
+        "range_end": "২২৭৭",
+        "range_start": "২২৬৫",
+        "serial": 37
+    },
+    {
+        "hadith_number": 43,
+        "id": 41,
+        "nameBengali": "৩৮/ যুলম ও কিসাস (كتاب المظالم)",
+        "nameEnglish": "38/ Oppressions",
+        "range_end": "২৩২০",
+        "range_start": "২২৭৮",
+        "serial": 38
+    },
+    {
+        "hadith_number": 22,
+        "id": 42,
+        "nameBengali": "৩৯/ অংশীদারিত্ব (كتاب الشركة)",
+        "nameEnglish": "39/ Partnership",
+        "range_end": "২৩৪২",
+        "range_start": "২৩২১",
+        "serial": 39
+    },
+    {
+        "hadith_number": 8,
+        "id": 43,
+        "nameBengali": "৪০/ বন্ধক (كتاب الرهن)",
+        "nameEnglish": "40/ Mortgagging",
+        "range_end": "২৩৫০",
+        "range_start": "২৩৪৩",
+        "serial": 40
+    },
+    {
+        "hadith_number": 40,
+        "id": 44,
+        "nameBengali": "৪১/ গোলাম আযাদ করা (كتاب العتق)",
+        "nameEnglish": "41/ Manumission Of Slaves",
+        "range_end": "২৩৯০",
+        "range_start": "২৩৫১",
+        "serial": 41
+    },
+    {
+        "hadith_number": 5,
+        "id": 45,
+        "nameBengali": "৪২/ মুকাতাব (كتاب المكاتب)",
+        "nameEnglish": "42/ Makttib",
+        "range_end": "২৩৯৫",
+        "range_start": "২৩৯১",
+        "serial": 42
+    },
+    {
+        "hadith_number": 65,
+        "id": 46,
+        "nameBengali": "৪৩/ হিবা (উপহার) প্রদান (كتاب الهبة وفضلها والتحريض عليها)",
+        "nameEnglish": "43/ Gifts",
+        "range_end": "২৪৬০",
+        "range_start": "২৩৯৬",
+        "serial": 43
+    },
+    {
+        "hadith_number": 50,
+        "id": 47,
+        "nameBengali": "৪৪/ শাহাদাত (كتاب الشهادات)",
+        "nameEnglish": "44/ Witnesses",
+        "range_end": "২৫১০",
+        "range_start": "২৪৬১",
+        "serial": 44
+    },
+    {
+        "hadith_number": 19,
+        "id": 48,
+        "nameBengali": "৪৫/ সন্ধি (كتاب الصلح)",
+        "nameEnglish": "45/ Peacemaking",
+        "range_end": "২৫২৯",
+        "range_start": "২৫১১",
+        "serial": 45
+    },
+    {
+        "hadith_number": 21,
+        "id": 49,
+        "nameBengali": "৪৬/ শর্তাবলী (كتاب الشروط)",
+        "nameEnglish": "46/ Conditions",
+        "range_end": "২৫৫০",
+        "range_start": "২৫৩০",
+        "serial": 46
+    },
+    {
+        "hadith_number": 40,
+        "id": 50,
+        "nameBengali": "৪৭/ অসিয়াত (كتاب الوصايا)",
+        "nameEnglish": "47/ Wills And Testaments (Wasaayaa)",
+        "range_end": "২৫৯০",
+        "range_start": "২৫৫১",
+        "serial": 47
+    },
+    {
+        "hadith_number": 373,
+        "id": 51,
+        "nameBengali": "৪৮/ জিহাদ (كتاب الجهاد والسير)",
+        "nameEnglish": "48/ Fighting For The Cause Of Allah (Jihaad)",
+        "range_end": "২৯৬৩",
+        "range_start": "২৫৯১",
+        "serial": 48
+    },
+    {
+        "hadith_number": 127,
+        "id": 52,
+        "nameBengali": "৪৯/ সৃষ্টির সূচনা (كتاب بدء الخلق)",
+        "nameEnglish": "49/ Beginning Of Creation",
+        "range_end": "৩০৯০",
+        "range_start": "২৯৬৪",
+        "serial": 49
+    },
+    {
+        "hadith_number": 573,
+        "id": 53,
+        "nameBengali": "৫০/ আম্বিয়া কিরাম (আঃ) (كتاب أحاديث الأنبياء)",
+        "nameEnglish": "50/ Prophets",
+        "range_end": "৩৬৬৩",
+        "range_start": "৩০৯১",
+        "serial": 50
+    },
+    {
+        "hadith_number": 458,
+        "id": 54,
+        "nameBengali": "৫১/ মাগাযী (যুদ্ধাভিযান) (كتاب المغازى)",
+        "nameEnglish": "51/ Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)",
+        "range_end": "৪১২১",
+        "range_start": "৩৬৬৪",
+        "serial": 51
+    },
+    {
+        "hadith_number": 496,
+        "id": 56,
+        "nameBengali": "৫২/ তাফসীর (كتاب تفسير)",
+        "nameEnglish": "52/ Prophetic Commentary on the Qur&#039;an (Tafseer of the Prophet  [pbuh] )",
+        "range_end": "৪৬১৩",
+        "range_start": "৪১২২",
+        "serial": 52
+    },
+    {
+        "hadith_number": 79,
+        "id": 57,
+        "nameBengali": "৫৩/ ফাজায়ীলুল কুরআন (كتاب فضائل القرآن)",
+        "nameEnglish": "53/ Virtues Of The Qur&#039;An ",
+        "range_end": "৪৬৯২",
+        "range_start": "৪৬১৪",
+        "serial": 53
+    },
+    {
+        "hadith_number": 178,
+        "id": 58,
+        "nameBengali": "৫৪/ বিয়ে-শাদী (كتاب النكاح)",
+        "nameEnglish": "54/ Wedlock, Marriage (Nikaah)",
+        "range_end": "৪৮৭০",
+        "range_start": "৪৬৯৩",
+        "serial": 54
+    },
+    {
+        "hadith_number": 85,
+        "id": 59,
+        "nameBengali": "৫৫/ তালাক (كتاب الطلاق)",
+        "nameEnglish": "55/ Divorce",
+        "range_end": "৪৯৫৯",
+        "range_start": "৪৮৭৫",
+        "serial": 55
+    },
+    {
+        "hadith_number": 22,
+        "id": 60,
+        "nameBengali": "৫৬/ ভরণ পোষণ (كتاب النفقات)",
+        "nameEnglish": "56/ Supporting The Family ",
+        "range_end": "৪৯৮১",
+        "range_start": "৪৯৬০",
+        "serial": 56
+    },
+    {
+        "hadith_number": 89,
+        "id": 62,
+        "nameBengali": "৫৭/ আহার সংক্রান্ত (كتاب الأطعمة)",
+        "nameEnglish": "57/ Food, Meals",
+        "range_end": "৫০৭০",
+        "range_start": "৪৯৮২",
+        "serial": 57
+    },
+    {
+        "hadith_number": 9,
+        "id": 63,
+        "nameBengali": "৫৮/ আকীকা (كتاب العقيقة)",
+        "nameEnglish": "58/ Sacrifice On Occasion Of Birth (Aquqa)",
+        "range_end": "৫০৭৯",
+        "range_start": "৫০৭১",
+        "serial": 58
+    },
+    {
+        "hadith_number": 67,
+        "id": 64,
+        "nameBengali": "৫৯/ যবাহ করা, শিকার করা (كتاب الذبائح والصيد)",
+        "nameEnglish": "59/ Hunting, Slaughtering",
+        "range_end": "৫১৪৬",
+        "range_start": "৫০৮০",
+        "serial": 59
+    },
+    {
+        "hadith_number": 28,
+        "id": 65,
+        "nameBengali": "৬০/ কুরবানী (كتاب الأضاحي)",
+        "nameEnglish": "60/ Al-Adha Festival Sacrifice (Adaahi)",
+        "range_end": "৫১৭৪",
+        "range_start": "৫১৪৭",
+        "serial": 60
+    },
+    {
+        "hadith_number": 63,
+        "id": 66,
+        "nameBengali": "৬১/ পানীয় দ্রব্যসমূহ (كتاب الأشربة)",
+        "nameEnglish": "61/ Drinks",
+        "range_end": "৫২৩৭",
+        "range_start": "৫১৭৫",
+        "serial": 61
+    },
+    {
+        "hadith_number": 38,
+        "id": 67,
+        "nameBengali": "৬২/ রোগীদের বর্ণনা (كتاب المرضى)",
+        "nameEnglish": "62/ Patients",
+        "range_end": "৫২৭৫",
+        "range_start": "৫২৩৮",
+        "serial": 62
+    },
+    {
+        "hadith_number": 91,
+        "id": 68,
+        "nameBengali": "৬৩/ চিকিৎসা (كتاب الطب)",
+        "nameEnglish": "63/ Medicine",
+        "range_end": "৫৩৬৬",
+        "range_start": "৫২৭৬",
+        "serial": 63
+    },
+    {
+        "hadith_number": 178,
+        "id": 69,
+        "nameBengali": "৬৪/ পোষাক-পরিচ্ছদ (كتاب اللباس)",
+        "nameEnglish": "64/ Dress",
+        "range_end": "৫৫৪৪",
+        "range_start": "৫৩৭৬",
+        "serial": 64
+    },
+    {
+        "hadith_number": 249,
+        "id": 70,
+        "nameBengali": "৬৫/ আচার ব্যবহার (كتاب الأدب)",
+        "nameEnglish": "65/ Good Manner And From (Al- Adab)",
+        "range_end": "৫৭৯৩",
+        "range_start": "৫৫৪৫",
+        "serial": 65
+    },
+    {
+        "hadith_number": 72,
+        "id": 71,
+        "nameBengali": "৬৬/ অনুমতি চাওয়া (كتاب الاستئذان)",
+        "nameEnglish": "66/ Asking Permission",
+        "range_end": "৫৮৬৫",
+        "range_start": "৫৭৯৪",
+        "serial": 66
+    },
+    {
+        "hadith_number": 104,
+        "id": 72,
+        "nameBengali": "৬৭/ দুআ (كتاب الدعوات)",
+        "nameEnglish": "67/ Invocations",
+        "range_end": "৫৯৬৯",
+        "range_start": "৫৮৬৬",
+        "serial": 67
+    },
+    {
+        "hadith_number": 157,
+        "id": 73,
+        "nameBengali": "৬৮/ কোমল হওয়া (كتاب الرقاق)",
+        "nameEnglish": "68/ To Make The Heart Tender (Ar-Riqaq)",
+        "range_end": "৬১২৬",
+        "range_start": "৫৯৭০",
+        "serial": 68
+    },
+    {
+        "hadith_number": 15,
+        "id": 74,
+        "nameBengali": "৬৯/ হাউয (كتاب الحوض)",
+        "nameEnglish": "69/ Haudge",
+        "range_end": "৬১৪১",
+        "range_start": "৬১২৭",
+        "serial": 69
+    },
+    {
+        "hadith_number": 26,
+        "id": 75,
+        "nameBengali": "৭০/ তাকদির (كتاب القدر)",
+        "nameEnglish": "70/ Divine Will (Al-Qadar)",
+        "range_end": "৬১৬৭",
+        "range_start": "৬১৪২",
+        "serial": 70
+    },
+    {
+        "hadith_number": 83,
+        "id": 76,
+        "nameBengali": "৭১/ শপথ ও মানত (كتاب الأيمان والنذور)",
+        "nameEnglish": "71/ Oaths and Vows",
+        "range_end": "৬২৫০",
+        "range_start": "৬১৬৮",
+        "serial": 71
+    },
+    {
+        "hadith_number": 17,
+        "id": 77,
+        "nameBengali": "৭২/ শপথের কাফফারা (كتاب كفارات الأيمان)",
+        "nameEnglish": "72/ Expiation For Unfulfilled Oaths",
+        "range_end": "৬২৬৭",
+        "range_start": "৬২৫১",
+        "serial": 72
+    },
+    {
+        "hadith_number": 47,
+        "id": 78,
+        "nameBengali": "৭৩/ উত্তরাধিকার (كتاب الفرائض)",
+        "nameEnglish": "73/ Laws of Inheritance (Al-Faraa&#039;id)",
+        "range_end": "৬৩১৪",
+        "range_start": "৬২৬৮",
+        "serial": 73
+    },
+    {
+        "hadith_number": 31,
+        "id": 79,
+        "nameBengali": "৭৪/ শরীয়তের শাস্তি (كتاب الحدود)",
+        "nameEnglish": "74/ Limits and Punishments set by Allah (Hudood)",
+        "range_end": "৬৩৪৫",
+        "range_start": "৬৩১৫",
+        "serial": 74
+    },
+    {
+        "hadith_number": 50,
+        "id": 80,
+        "nameBengali": "৭৫/ কাফের ও ধর্মত্যাগী বিদ্রোহীদের বিবরণ (كتاب المحاربين من اهل الكفر والردة)",
+        "nameEnglish": "75/ Punishment of Disbelievers at War with Allah and His Apostle ",
+        "range_end": "৬৩৯৫",
+        "range_start": "৬৩৬৪",
+        "serial": 75
+    },
+    {
+        "hadith_number": 54,
+        "id": 81,
+        "nameBengali": "৭৬/ রক্তপন (كتاب الديات)",
+        "nameEnglish": "76/ Blood Money (Ad-Diyat)",
+        "range_end": "৬৪৪৯",
+        "range_start": "৬৩৯৬",
+        "serial": 76
+    },
+    {
+        "hadith_number": 21,
+        "id": 82,
+        "nameBengali": "৭৭/ আল্লাহদ্রোহী ও ধর্মত্যাগীদেরকে তওবার প্রতি আহবান ও তাদের সাথে যুদ্ধ (كتاب استتابة المرتدين والمعاندين وقتالهم)",
+        "nameEnglish": "77/ Apostates",
+        "range_end": "৬৪৭০",
+        "range_start": "৬৪৫০",
+        "serial": 77
+    },
+    {
+        "hadith_number": 12,
+        "id": 83,
+        "nameBengali": "৭৮/ বল-প্রয়োগে বাধ্য করা (كتاب الإكراه)",
+        "nameEnglish": "78/ Saying Something Under Compulsion (Ikraah)",
+        "range_end": "৬৪৮২",
+        "range_start": "৬৪৭১",
+        "serial": 78
+    },
+    {
+        "hadith_number": 28,
+        "id": 84,
+        "nameBengali": "৭৯/ কূটকৌশল (كتاب الحيل)",
+        "nameEnglish": "79/ Tricks",
+        "range_end": "৬৫১০",
+        "range_start": "৬৪৮৩",
+        "serial": 79
+    },
+    {
+        "hadith_number": 61,
+        "id": 85,
+        "nameBengali": "৮০/ স্বপ্নের ব্যাখ্যা প্রদান (كتاب التعبير)",
+        "nameEnglish": "80/ Interpretation of Dreams",
+        "range_end": "৬৫৭১",
+        "range_start": "৬৫১১",
+        "serial": 80
+    },
+    {
+        "hadith_number": 80,
+        "id": 86,
+        "nameBengali": "৮১/ ফিতনা (كتاب الفتن)",
+        "nameEnglish": "81/ Afflictions And The End Of The Warld",
+        "range_end": "৬৬৫১",
+        "range_start": "৬৫৭২",
+        "serial": 81
+    },
+    {
+        "hadith_number": 80,
+        "id": 87,
+        "nameBengali": "৮২/ আহকাম (كتاب الأحكام)",
+        "nameEnglish": "82/ Judgements (Ahkaam)",
+        "range_end": "৬৭৩১",
+        "range_start": "৬৬৫২",
+        "serial": 82
+    },
+    {
+        "hadith_number": 20,
+        "id": 88,
+        "nameBengali": "৮৩/ আকাঙ্ক্ষা (كتاب التمنى)",
+        "nameEnglish": "83/ Wishes",
+        "range_end": "৬৭৫১",
+        "range_start": "৬৭৩২",
+        "serial": 83
+    },
+    {
+        "hadith_number": 20,
+        "id": 89,
+        "nameBengali": "৮৪/ খবরে ওয়াহিদ (كتاب أخبار الآحاد)",
+        "nameEnglish": "84/ Accepting Information Given By A Truthful Person",
+        "range_end": "৬৭৭১",
+        "range_start": "৬৭৫২",
+        "serial": 84
+    },
+    {
+        "hadith_number": 96,
+        "id": 90,
+        "nameBengali": "৮৫/ কুরআন ও সুন্নাহকে দৃঢ়ভাবে ধারন (كتاب الاعتصام بالكتاب والسنة)",
+        "nameEnglish": "85/ Holding Fast To The Qur&#039;An And Sunnah",
+        "range_end": "৬৮৬৭",
+        "range_start": "৬৭৭২",
+        "serial": 85
+    },
+    {
+        "hadith_number": 186,
+        "id": 91,
+        "nameBengali": "৮৬/ জাহ্‌মিয়াদের মতের খণ্ডন ও তাওহীদ প্রসঙ্গ (كتاب الرد على الجهمية و غيرهمو التوحيد)",
+        "nameEnglish": "86/ Oneness, Uniqueness Of Allah (Tawheed)",
+        "range_end": "৭০৫৩",
+        "range_start": "৬৮৬৮",
+        "serial": 86
+    }
+]
